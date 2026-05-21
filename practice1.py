@@ -24,6 +24,7 @@ Though I know not what you are,
 Twinkle, twinkle, little star.
 ''')
 
+#print table of 5
 for i in range(1,11):
  n=i
  print(5*n)
