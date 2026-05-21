@@ -13,5 +13,5 @@ print(c)
 f=5>3
 print(f)
 
-e= 5==4
+e= 5==4 #check values are equal
 print (e)
