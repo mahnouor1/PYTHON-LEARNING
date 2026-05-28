@@ -1,4 +1,4 @@
-import pyjokes
+import pyjokes # type: ignore
 
 joke = pyjokes.get_jokes()
 print('p')
